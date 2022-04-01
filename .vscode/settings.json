@@ -1,0 +1,6 @@
+{
+    "editor.defaultFormatter": "mohsen1.prettify-json",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
