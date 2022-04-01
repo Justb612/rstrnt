@@ -46,4 +46,4 @@ const object = {
   gericht,
 };
 
-export default object
+export default object;
